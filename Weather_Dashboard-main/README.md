@@ -16,7 +16,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-<img src='assets/Weather.png' alt="WeatherDashboard">
 
 _______________________________________________________________
 
@@ -38,7 +37,7 @@ _______________________________________________________________
 ### Contact Me 
 
 <img src='https://img.shields.io/badge/github-gordillo-blue' alt="github-badge">
-<img src='./assets/Weather.png'>
+<img src='./assets/Weather.png'alt="WeatherDashboard">
 
 * https://github.com/MikeGordillo
 * https://github.com/MikeGordillo/WeatherDashBoard
