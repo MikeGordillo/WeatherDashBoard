@@ -37,7 +37,7 @@ _______________________________________________________________
 _______________________________________________________________
 ### Contact Me 
 
-<img src='https://img.shields.io/badge/github-vanscoyro-orange' alt="github-badge">
+<img src='https://img.shields.io/badge/github-gordillo-blue' alt="github-badge">
 
 * https://github.com/MikeGordillo
 * 
