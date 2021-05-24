@@ -1,10 +1,10 @@
 
 # Weather Dashboard
-## by Robert VanScoy
+## by Mike Gordillo
 _______________________________________________________________
 ### Description 
-* This website allows users to find the current and five day weather forcast for a city they enter in the Search Box.
-  
+* An App for checking a city's current and five day forecast weather by  city name.
+* 
 ### License : 
 <img src='https://img.shields.io/badge/license-MIT-blue' alt="license-badge">
   
@@ -16,12 +16,12 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-<img src='assets/mainOverview.JPG' alt="WeatherDashboard">
+<img src='assets/Weather.png' alt="WeatherDashboard">
 
 _______________________________________________________________
 
 ### Installation Instructions:
-* Simply clone the repo and run locally.
+* Simply clone the repo and run on local machine.
 
 _______________________________________________________________
 
@@ -30,7 +30,7 @@ _______________________________________________________________
 <img src = "https://img.shields.io/badge/javascript%20-%2343853D.svg" alt="language-badge">
 
 ### Contribution Policy: 
-* Feel free to email me with program improvement suggestions
+* suggest improvements
 _______________________________________________________________
 ### Test Cases:
 * n/a
@@ -39,19 +39,22 @@ _______________________________________________________________
 
 <img src='https://img.shields.io/badge/github-vanscoyro-orange' alt="github-badge">
 
-* https://github.com/vanscoyro
-* rvans003@fiu.edu
+* https://github.com/MikeGordillo
+* 
 
 ### TABLE OF CONTENTS 
 _______________________________________________________________
-* [Description](#description)
-* [License](#license-)
-* [Demo](#demo)
-* [Installation](#installation-instructions)
-* [Main Language](#main-language-)
-* [Contribution Policy](#contribution-policy)
-* [Test Case](#test-cases)
-* [Contact Me](#contact-me)
+- [Weather Dashboard](#weather-dashboard)
+  - [by Mike Gordillo](#by-mike-gordillo)
+    - [Description](#description)
+    - [License :](#license-)
+    - [Demo:](#demo)
+    - [Installation Instructions:](#installation-instructions)
+    - [Main Language :](#main-language-)
+    - [Contribution Policy:](#contribution-policy)
+    - [Test Cases:](#test-cases)
+    - [Contact Me](#contact-me)
+    - [TABLE OF CONTENTS](#table-of-contents)
 
 
 
