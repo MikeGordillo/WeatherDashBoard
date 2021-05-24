@@ -12,7 +12,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 ### Demo:
-* Screenshot of deployed site on Github Pages
+![video](./assets/weather.gif)
 
 _______________________________________________________________
 
@@ -38,8 +38,11 @@ _______________________________________________________________
 ### Contact Me 
 
 <img src='https://img.shields.io/badge/github-gordillo-blue' alt="github-badge">
+<img src='./assets/Weather.png'>
 
 * https://github.com/MikeGordillo
+* https://github.com/MikeGordillo/WeatherDashBoard
+* 
 * 
 
 ### TABLE OF CONTENTS 
